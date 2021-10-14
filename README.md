@@ -7,4 +7,4 @@
 Simply just clone this repository and create a zip archive out of the folder you wish to update.
 
 ### Questions?
-You can use my [server](https://discord.gg/heY4QkQu7T) for that, feel free to join for any questions!
+You can use my [server](https://discord.gg/W23hUSewzG) for that, feel free to join for any questions!
