@@ -1,0 +1,39 @@
+{
+    "entity.enderman.death": {
+        "replace": true,
+        "sounds": [
+            {
+            	"name": "silence/silent",
+            	"volume": 0.1
+            }
+        ]
+    },
+    "entity.enderman.hurt": {
+        "replace": true,
+        "sounds": [
+            {
+            	"name": "silence/silent",
+            	"volume": 0.1
+            }
+        ]
+    },
+    "entity.enderman.ambient": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "silence/silent",
+                "volume": 0.1
+            }
+        ]
+    },
+    "entity.enderman.scream": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "silence/silent",
+                "volume": 0.1
+            }
+        ]
+    }
+}
+
